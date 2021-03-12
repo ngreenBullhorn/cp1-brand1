@@ -64,7 +64,7 @@
     ]
   },
   "additionalJobCriteria": {
-    "field": "city",
+    "field": "address(city)",
     "values": [
       "Sydney"
     ],
