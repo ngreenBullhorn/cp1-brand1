@@ -64,9 +64,9 @@
     ]
   },
   "additionalJobCriteria": {
-    "field": "address(city)",
+    "field": "employmentType",
     "values": [
-      "Sydney"
+      "Contract"
     ],
     "sort": "-dateLastPublished"
   },
