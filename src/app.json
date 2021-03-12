@@ -64,9 +64,9 @@
     ]
   },
   "additionalJobCriteria": {
-    "field": "[ FILTER FIELD HERE ]",
+    "field": "city",
     "values": [
-      "[ FILTER VALUE HERE ]"
+      "Sydney"
     ],
     "sort": "-dateLastPublished"
   },
